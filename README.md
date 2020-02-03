@@ -1,5 +1,8 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**6) Huddle landing page with single introductory section:**
+   - repository: https://github.com/SergiiMost/huddle-landing-page-single
+   - deployed  : https://sergiimost.github.io/huddle-landing-page-single/
 
 **6) Huddle landing page with alternating feature blocks:**
    - repository: https://github.com/SergiiMost/huddle-landing-page-blocks
