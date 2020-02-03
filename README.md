@@ -1,8 +1,13 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+
+**6) Huddle landing page with alternating feature blocks:**
+   - repository: https://github.com/SergiiMost/huddle-landing-page-blocks
+   - deployed  : https://sergiimost.github.io/huddle-landing-page-blocks/
+
 **5) Ping single column coming soon page:**
-   - repository: <a href="https://github.com/SergiiMost/ping-coming-soon-page" target="_blank">GitHub</a> 
-   - deployed  : <a href="https://sergiimost.github.io/ping-coming-soon-page/" target="_blank">GitHub Pages</a>
+   - repository: https://github.com/SergiiMost/ping-coming-soon-page
+   - deployed  : https://sergiimost.github.io/ping-coming-soon-page/ 
 
 **4) Intro component with sign-up form:**
    - repository: https://github.com/SergiiMost/single-price-component
