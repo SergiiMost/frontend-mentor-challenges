@@ -1,5 +1,9 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**9) Pricing component with toggle:**
+   - repository: https://github.com/SergiiMost/pricing-component-with-toggle
+   - deployed  : https://sergiimost.github.io/pricing-component-with-toggle/
+
 **8) Fylo landing page with two column layout:**
    - repository: https://github.com/SergiiMost/fylo-landing-page-with-two-column-layout
    - deployed  : https://sergiimost.github.io/fylo-landing-page-with-two-column-layout/
