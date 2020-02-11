@@ -1,5 +1,9 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**10) Insure landing page:**
+   - repository: https://github.com/SergiiMost/insure-landing-page
+   - deployed  : https://sergiimost.github.io/insure-landing-page/
+
 **9) Pricing component with toggle:**
    - repository: https://github.com/SergiiMost/pricing-component-with-toggle
    - deployed  : https://sergiimost.github.io/pricing-component-with-toggle/
