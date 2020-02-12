@@ -1,5 +1,9 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**11) Project tracking intro component:**
+   - repository: https://github.com/SergiiMost/project-tracking-intro-component
+   - deployed  : https://sergiimost.github.io/project-tracking-intro-component/
+
 **10) Insure landing page:**
    - repository: https://github.com/SergiiMost/insure-landing-page
    - deployed  : https://sergiimost.github.io/insure-landing-page/
