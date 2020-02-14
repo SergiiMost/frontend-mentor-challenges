@@ -1,5 +1,9 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**12) Clipboard landing page:**
+   - repository: https://github.com/SergiiMost/clipboard-landing-page
+   - deployed  : https://sergiimost.github.io/clipboard-landing-page/
+
 **11) Project tracking intro component:**
    - repository: https://github.com/SergiiMost/project-tracking-intro-component
    - deployed  : https://sergiimost.github.io/project-tracking-intro-component/
