@@ -1,5 +1,9 @@
 [Frontend Mentor](https://www.frontendmentor.io) challenges (my implementation) 🚀:
 
+**15) Bookmark landing page:**
+   - repository: https://github.com/SergiiMost/bookmark-landing-page
+   - deployed  : https://sergiimost.github.io/bookmark-landing-page/
+   
 **14) Huddle landing page with curved sections:**
    - repository: https://github.com/SergiiMost/huddle-landing-page-with-curved-sections
    - deployed  : https://sergiimost.github.io/huddle-landing-page-with-curved-sections/
